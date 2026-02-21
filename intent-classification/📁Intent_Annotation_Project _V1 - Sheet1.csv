@@ -1,0 +1,51 @@
+ID,Text,Moderation Label,Confidence Score,Comment
+1,"Hi, I need some assistance.",Greeting,0.96,
+2,My order hasn’t arrived yet.,Complaint,0.94,
+3,Can you tell me the delivery timeline?,Information Request,0.95,
+4,I would like to buy this product.,Purchase Intent,0.97,
+5,"If this isn’t resolved, I’ll take legal action.",Threat,0.93,Clear escalation warning.
+6,This is the best service I’ve used.,Feedback,0.92,
+7,Congratulations! Claim your free reward now!,Spam,0.98,Promotional scam pattern.
+8,Good afternoon.,Greeting,0.99,
+9,What payment methods do you accept?,Information Request,0.95,
+10,The product stopped working after two days.,Complaint,0.96,
+11,I’m planning to purchase this soon.,Purchase Intent,0.91,Intent expressed but future-oriented.
+12,I will report this to the consumer court.,Threat,0.94,Explicit escalation statement.
+13,Your support team was very helpful.,Feedback,0.97,
+14,Click here to earn money instantly!,Spam,0.99,Obvious promotional lure.
+15,Could you explain your return policy?,Information Request,0.96,
+16,Hello team.,Greeting,0.99,
+17,The packaging was damaged.,Complaint,0.95,
+18,Please place my order immediately.,Purchase Intent,0.96,Direct action request to buy.
+19,"If I don’t get my refund, I’ll escalate this.",Threat,0.92,Conditional escalation.
+20,The app interface is clean and easy to use.,Feedback,0.94,
+21,Buy followers now at 90% discount!,Spam,0.98,Marketing / bot-like promotion.
+22,Is this available in size medium?,Information Request,0.95,
+23,This is unacceptable service.,Complaint,0.96,
+24,I want to order two units.,Purchase Intent,0.97,
+25,Good morning!,Greeting,0.99,
+26,I’ll make sure to leave a negative review.,Threat,0.88,Implied reputational threat.
+27,The experience was average.,Feedback,0.85,Mild evaluative statement.
+28,Limited time offer! Don’t miss out!,Spam,0.97,Promotional urgency language.
+29,How long does shipping take internationally?,Information Request,0.95,
+30,My payment was deducted but no confirmation received.,Complaint,0.94,
+31,I am ready to complete the purchase.,Purchase Intent,0.96,
+32,Hey there!,Greeting,0.98,
+33,"If this continues, I’ll file a formal complaint.",Threat,0.91,Conditional escalation.
+34,The quality is decent for the price.,Feedback,0.89,Mild evaluative statement.
+35,Free crypto giveaway! Join now!,Spam,0.99,High-risk scam pattern.
+36,Can I change my delivery address?,Information Request,0.95,
+37,The customer support is not responding.,Complaint,0.95,
+38,I’d like to proceed with the checkout.,Purchase Intent,0.96,Purchase action intent.
+39,This issue needs to be fixed immediately or I’ll take action.,Threat,0.9,Implied enforcement action.
+40,The delivery was faster than expected.,Feedback,0.94,
+41,Hello.,Greeting,0.99,
+42,What is the warranty period?,Information Request,0.96,
+43,The item I received is defective.,Complaint,0.96,
+44,I’m interested in buying this.,Purchase Intent,0.95,
+45,I will contact higher authorities regarding this.,Threat,0.92,Escalation to authority.
+46,Very satisfied with the service.,Feedback,0.97,
+47,Earn passive income daily!!!,Spam,0.98,Generic spam structure.
+48,Are there any ongoing discounts?,Information Request,0.94,
+49,This product does not match the description.,Complaint,0.96,
+50,I’d like to confirm my purchase.,Purchase Intent,0.97,
