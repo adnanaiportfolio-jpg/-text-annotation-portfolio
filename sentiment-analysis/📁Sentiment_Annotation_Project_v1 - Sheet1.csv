@@ -1,0 +1,51 @@
+ID,Text,Sentiment_Label,Confidence_Score,Comment
+1,The product exceeded my expectations.,Positive,0.95,
+2,I am not happy with the customer support.,Negative,0.96,
+3,The package arrived.,Neutral,0.78,"Factual, no strong sentiment"
+4,This is the best purchase I have made this year.,Positive,0.97,
+5,It could have been better.,Negative,0.8,
+6,The interface is simple and easy to use.,Positive,0.92,
+7,I regret buying this item.,Negative,0.95,
+8,The meeting was scheduled for 3 PM.,Neutral,0.77,"Informative, neutral"
+9,Not bad at all.,Positive,0.85,
+10,The update ruined everything.,Negative,0.97,
+11,I have no strong feelings about this product.,Neutral,0.76,No emotional impact
+12,The service was acceptable.,Neutral,0.75,Mild positive implication
+13,Absolutely terrible experience.,Negative,0.97,
+14,I might recommend it to others.,Neutral,0.78,"Uncertain, mild positive"
+15,Delivery was quick and smooth.,Positive,0.93,
+16,It does what it claims.,Neutral,0.75,"Functional, factual"
+17,Completely useless and overpriced.,Negative,0.98,
+18,The color is blue.,Neutral,0.75,"Descriptive, factual"
+19,I am impressed with the quality.,Positive,0.95,
+20,The performance is inconsistent.,Negative,0.9,
+21,I wish it lasted longer.,Negative,0.82,
+22,The staff was polite.,Positive,0.9,
+23,"Nothing special, just average.",Neutral,0.76,Mildly descriptive
+24,This app keeps crashing.,Negative,0.95,
+25,Fair enough for the price.,Positive,0.8,Mild value satisfaction
+26,I love how fast it works.,Positive,0.96,
+27,"The design is okay, but feels outdated.",Negative,0.78,"Mixed tone, negative end"
+28,It was delivered yesterday evening.,Neutral,0.77,"Informative, neutral"
+29,Extremely satisfied with my purchase.,Positive,0.97,
+30,I expected more from this brand.,Negative,0.88,
+31,The product works fine.,Neutral,0.75,"Functional, neutral"
+32,I am disappointed.,Negative,0.95,
+33,The instructions were clear.,Positive,0.9,
+34,It’s not what I hoped for.,Negative,0.85,
+35,Everything was perfect.,Positive,0.96,
+36,The experience was neither good nor bad.,Neutral,0.77,"Balanced tone, neutral"
+37,I will never buy this again.,Negative,0.95,
+38,The sound quality is decent.,Neutral,0.76,"Mild, average"
+39,Totally worth the money.,Positive,0.96,
+40,The response time is slow.,Negative,0.88,
+41,I don’t think it’s worth it.,Negative,0.9,
+42,The packaging looks premium.,Positive,0.95,
+43,It’s okay for daily use.,Neutral,0.76,Mild descriptive
+44,Horrible customer service.,Negative,0.98,
+45,Works as expected.,Neutral,0.77,"Functional, factual"
+46,The battery life is impressive.,Positive,0.95,
+47,I’m not completely satisfied.,Negative,0.88,
+48,The product description was accurate.,Neutral,0.75,"Informational, factual"
+49,Fantastic performance overall.,Positive,0.97,
+50,There is room for improvement.,Negative,0.78,Mild dissatisfaction
