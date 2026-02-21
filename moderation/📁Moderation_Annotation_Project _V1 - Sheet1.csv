@@ -1,0 +1,51 @@
+ID,Text,Moderation Label,Confidence Score,Comment
+1,You’re completely useless.,Abusive,0.94,
+2,Limited time offer! Double your money today.,Spam,0.97,
+3,Thanks for your support.,Safe,0.92,
+4,"If you say that again, I’ll punch you.",Violent,0.95,
+5,People from that religion are brainwashed.,Hate Speech,0.96,
+6,"Wow, what a genius move.",Sarcastic,0.88,Indirect mocking tone.
+7,DM me to buy followers.,Spam,0.98,
+8,Let’s discuss this tomorrow.,Safe,0.9,
+9,"You’re not very bright, are you?",Abusive,0.91,
+10,Immigrants are ruining this country.,Hate Speech,0.93,Targets nationality/ethnic group.
+11,Nice job breaking everything again 👏,Sarcastic,0.89,Mocking with positive wording.
+12,Click here to claim your free iPhone.,Spam,0.99,
+13,I disagree with your view.,Safe,0.87,Disagreement without insult.
+14,Someone should teach you a lesson.,Violent,0.85,Implied physical threat.
+15,That caste is full of criminals.,Hate Speech,0.97,
+16,"Great, another delay. Perfect.",Sarcastic,0.86,
+17,Send your OTP to verify account.,Spam,0.99,
+18,Thank you for the clarification.,Safe,0.93,
+19,You absolute idiot.,Abusive,0.96,
+20,Go back to where you came from.,Hate Speech,0.92,Xenophobic targeting.
+21,"Invest now, guaranteed 200% return.",Spam,0.98,
+22,You people are always complaining.,Safe,0.78,Group unspecified; context unclear.
+23,Wonderful performance!,Safe,0.94,
+24,I’ll make sure you regret this.,Violent,0.84,Implied threat.
+25,That gender is too emotional to lead.,Hate Speech,0.96,
+26,"Sure, because that worked so well last time.",Sarcastic,0.87,
+27,Contact me for cheap crypto mining setup.,Spam,0.95,
+28,Let’s finalize the report.,Safe,0.91,
+29,I hope you fail.,Abusive,0.83,Negative personal attack.
+30,Politicians are destroying everything.,Safe,0.76,Political opinion; not protected class.
+31,"Win cash prizes instantly, click now!",Spam,0.99,
+32,"Brilliant, just brilliant…",Sarcastic,0.85,Context suggests irony.
+33,All refugees are criminals.,Hate Speech,0.97,
+34,Thanks for your quick reply.,Safe,0.94,
+35,You’re a clown.,Abusive,0.92,
+36,We should hang people like you.,Violent,0.97,Encouraging physical harm.
+37,Please review the attachment.,Safe,0.9,
+38,Another masterpiece from you 🙄,Sarcastic,0.88,Eye-roll emoji indicates sarcasm.
+39,Buy likes and comments instantly.,Spam,0.98,
+40,Your opinion is stupid.,Abusive,0.89,
+41,All engineers are useless.,Safe,0.74,Profession; not protected group.
+42,I appreciate your effort.,Safe,0.93,
+43,Send money to unlock reward.,Spam,0.98,
+44,I strongly disagree.,Safe,0.88,
+45,Women shouldn’t vote.,Hate Speech,0.98,
+46,Great work… as always.,Safe,0.81,Context neutral without sarcasm indicator.
+47,I will destroy you.,Violent,0.95,Direct threat.
+48,Free giveaway!!! Limited seats!!!,Spam,0.99,
+49,Stop acting smart.,Abusive,0.84,Mild personal insult.
+50,Let’s move forward professionally.,Safe,0.92,
