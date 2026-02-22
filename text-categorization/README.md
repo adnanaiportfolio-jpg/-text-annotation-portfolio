@@ -1,62 +1,63 @@
-# Text Categorization Dataset (50 Samples)
+# Text Categorization Annotation Project
 
 ## 📌 Project Overview
-This repository contains a manually curated text classification dataset with 50 labeled samples.
 
-The dataset is designed for:
-- Text Classification Practice
-- NLP Model Training
-- AI/Data Annotation Practice
-- Machine Learning Experiments
+This project contains a manually annotated text categorization dataset created for NLP and content classification practice.
 
-## 🗂 Dataset Details
+The dataset includes text samples labeled across multiple categories with confidence scores.
+
+## 🎯 Objective
+
+The purpose of this project is to:
+
+- Practice supervised text categorization  
+- Assign appropriate categories to news or content text  
+- Handle ambiguous or multi-topic texts  
+- Build portfolio-ready NLP and AI annotation experience
+
+## 🗂 Dataset Information
 
 Total Samples: 50  
-Categories Used:
-- Sports
-- Politics
-- Technology
-- Entertainment
-- Health
-- Education
-- Finance
-- Travel
+Annotation Type: Multi-class Text Categorization  
 
-Each entry contains the following fields:
+Each entry contains:
 
-ID  
-TEXT  
-LABEL  
-CONFIDENCE_SCORE  
-COMMENT  
+- ID  
+- TEXT  
+- LABEL  
+- CONFIDENCE_SCORE  
+- COMMENT (only for ambiguous cases)
 
-Only ambiguous or overlapping category entries include explanatory comments.
+## 🏷 Categories Used
 
-## 🎯 Purpose of This Dataset
+- Sports  
+- Politics  
+- Technology  
+- Entertainment  
+- Health  
+- Education  
+- Finance  
+- Travel  
 
-This dataset was created to:
-- Practice supervised learning classification
-- Understand category overlap handling
-- Improve annotation accuracy
-- Build portfolio-ready AI projects
+## 📊 Annotation Approach
 
-## 📊 Example Entry Format
+- Text was labeled according to its primary category.  
+- Clear category texts were labeled with high confidence.  
+- Ambiguous or multi-topic texts include explanatory comments.  
 
-ID | TEXT | LABEL | CONFIDENCE_SCORE | COMMENT
----|------|-------|-----------------|--------
-1 | The cricket team won the Asia Cup final yesterday. | Sports | 0.96 | 
+## 🚀 Possible Use Cases
 
-## 🚀 How to Use
+- News article classification  
+- Content recommendation systems  
+- Topic-based search and filtering  
+- NLP model training for text classification  
 
-1. Download the CSV file
-2. Import into Google Sheets / Excel
-3. Use for model training or annotation practice
-4. Train classification models (Logistic Regression, Naive Bayes, etc.)
+## 🛠 Tools Used
 
-## 👨‍💻 Author
-
-Created as part of AI & Data Annotation practice project.
+- Google Sheets (Data Annotation)  
+- CSV format for structured dataset  
+- GitHub for project hosting  
 
 ---
 
-If you found this useful, feel free to ⭐ star the repository.
+This project demonstrates practical understanding of text categorization and dataset structuring for NLP applications.
