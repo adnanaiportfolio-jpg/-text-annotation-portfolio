@@ -1,0 +1,51 @@
+ID,TEXT,LABEL,CONFIDENCE_SCORE,COMMENT
+1,The cricket team won the Asia Cup final yesterday.,Sports,0.96,
+2,The government introduced a new agricultural reform bill.,Politics,0.94,
+3,Google launched a new AI-powered search feature.,Technology,0.93,
+4,The movie broke box office records worldwide.,Entertainment,0.95,
+5,Doctors warned about rising cases of dengue fever.,Health,0.92,
+6,The university announced admissions for the new semester.,Education,0.94,
+7,The stock market closed at a record high today.,Finance,0.95,
+8,Thousands of tourists visited Jaipur during the festival.,Travel,0.91,
+9,The football league schedule was released today.,Sports,0.93,
+10,Parliament debated the new cybersecurity law.,Politics,0.92,Could also relate to Technology due to cybersecurity context
+11,Microsoft released a major Windows update.,Technology,0.94,
+12,The singer announced a world tour next month.,Entertainment,0.93,
+13,A new vaccine has been approved for children.,Health,0.92,
+14,The education board revised the exam syllabus.,Education,0.9,
+15,Investors are shifting towards gold investments.,Finance,0.91,
+16,Airlines reduced ticket prices for international routes.,Travel,0.89,
+17,The basketball championship attracted global audiences.,Sports,0.95,
+18,The finance minister proposed changes in income tax.,Finance,0.88,Could also fall under Politics as policy decision
+19,Researchers developed a new quantum computing chip.,Technology,0.93,
+20,The actor won an award for best performance.,Entertainment,0.94,
+21,Hospitals are seeing an increase in flu patients.,Health,0.9,
+22,Students attended an online coding workshop.,Education,0.89,Could overlap with Technology due to coding context
+23,The tourism department launched a heritage campaign.,Travel,0.88,
+24,The cricket board signed new sponsorship deals.,Sports,0.87,Could relate to Finance due to sponsorship aspect
+25,The president met foreign diplomats to discuss trade.,Politics,0.9,Could also relate to Finance due to trade discussion
+26,A startup introduced a blockchain-based payment system.,Technology,0.92,Overlap between Technology and Finance (FinTech)
+27,The web series gained massive popularity on OTT.,Entertainment,0.93,
+28,Health officials advised wearing masks in crowded areas.,Health,0.91,
+29,The college received funding for research labs.,Education,0.86,Could also fall under Finance due to funding aspect
+30,The rupee weakened against the dollar today.,Finance,0.94,
+31,Travel bloggers shared their experience of Ladakh trip.,Travel,0.88,
+32,The tennis player retired after a long career.,Sports,0.92,
+33,Lawmakers discussed climate change policies.,Politics,0.9,
+34,Engineers built a humanoid service robot.,Technology,0.93,
+35,The film festival featured international directors.,Entertainment,0.91,
+36,Doctors recommend regular exercise for heart health.,Health,0.92,
+37,The school introduced smart classrooms with tablets.,Education,0.85,Overlap between Education and Technology
+38,Mutual fund investments increased this quarter.,Finance,0.93,
+39,The airline announced new direct flights to Dubai.,Travel,0.9,
+40,The hockey team qualified for the World Cup.,Sports,0.94,
+41,The chief minister announced a new employment scheme.,Politics,0.91,Could also relate to Finance due to economic scheme
+42,Cybersecurity experts warned about data breaches.,Technology,0.89,
+43,The actor signed a multi-film contract.,Entertainment,0.92,
+44,A new diet plan is trending among fitness enthusiasts.,Health,0.84,Could overlap with Lifestyle category
+45,The university partnered with industry leaders for internships.,Education,0.87,
+46,Inflation rates have impacted household budgets.,Finance,0.95,
+47,The tourism expo attracted visitors from 20 countries.,Travel,0.89,
+48,The badminton tournament was postponed due to rain.,Sports,0.93,
+49,The cabinet approved reforms in the banking sector.,Finance,0.82,Strong overlap between Finance and Politics
+50,Scientists created an AI model to predict earthquakes.,Technology,0.88,Could also relate to Science domain
