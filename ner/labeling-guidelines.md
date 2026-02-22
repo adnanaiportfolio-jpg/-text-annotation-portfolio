@@ -1,78 +1,146 @@
 # Named Entity Recognition (NER) Labeling Guidelines
 
-This document defines the entity categories used in this NER annotation project.
+## 📌 Purpose
+
+This document defines the rules followed while labeling entities in the dataset.
+
+The goal is to ensure consistency, clarity, and reproducibility of annotation.
 
 ---
 
-## 1. PERSON
-Names of individuals (real or fictional).
+## 🏷 Entity Labels Definition
+
+### 1️⃣ Person
+
+Definition:  
+Any named individual (real or fictional).
 
 Examples:
-- Steve Jobs
-- Virat Kohli
-- Elon Musk
+- "Sundar Pichai"  
+- "Albert Einstein"  
+
+Indicators:
+- Names of people
+- First name + Last name combinations
 
 ---
 
-## 2. LOCATION
-Geographical places such as cities, countries, landmarks.
+### 2️⃣ Organization
+
+Definition:  
+Any named organization, company, institution, or group.
 
 Examples:
-- New Delhi
-- India
-- Seattle
-- Eiffel Tower
+- "Google"  
+- "UNICEF"  
+
+Indicators:
+- Official company names  
+- Educational institutions  
+- NGOs or government bodies
 
 ---
 
-## 3. ORGANIZATION
-Names of companies, institutions, brands, or agencies.
+### 3️⃣ Location
+
+Definition:  
+Named geographical locations (cities, countries, landmarks).
 
 Examples:
-- Google
-- Microsoft
-- United Nations
-- Apple
+- "Jaipur"  
+- "Mount Everest"  
+
+Indicators:
+- Cities, states, countries  
+- Natural or man-made landmarks
 
 ---
 
-## 4. DATE
-Specific dates or calendar references.
+### 4️⃣ Date & Time
+
+Definition:  
+Any reference to a specific date, time, or period.
 
 Examples:
-- 15 August 2025
-- January 1, 2024
-- 10/12/2023
+- "July 10, 2020"  
+- "next Monday"  
+- "3 PM"  
+
+Indicators:
+- Calendar dates  
+- Specific time references  
+- Relative temporal expressions
 
 ---
 
-## 5. TIME
-Specific time references.
+### 5️⃣ Money
+
+Definition:  
+Monetary amounts, currency references, financial figures.
 
 Examples:
-- 10 AM
-- 5:30 PM
-- Midnight
+- "$2 billion"  
+- "INR 5000"  
+
+Indicators:
+- Currency symbols or abbreviations  
+- Numeric monetary values
 
 ---
 
-## 6. MONEY
-Monetary values or currency expressions.
+### 6️⃣ Product
+
+Definition:  
+Any named product, device, or software.
 
 Examples:
-- 500 dollars
-- ₹10,000
-- $99
+- "iPhone 14"  
+- "Windows 11"  
+
+Indicators:
+- Brand + product name  
+- Software or physical goods
 
 ---
 
-## Annotation Rule
-- Only clearly identifiable entities should be labeled.
-- Each row represents one entity extracted from the text.
-- The dominant and exact entity phrase should be selected.
-- Confidence score must be above 0.70.
+### 7️⃣ Event
+
+Definition:  
+Named events, festivals, conferences, competitions, or programs.
+
+Examples:
+- "Asia Cup"  
+- "Tech Summit 2023"  
+
+Indicators:
+- Named competitions or tournaments  
+- Conferences or exhibitions  
 
 ---
 
-## Confidence Score
-Confidence reflects clarity and correctness of entity recognition.
+## ⚖ Handling Ambiguous Cases
+
+- If text contains multiple entities, label each one separately.  
+- If unsure about entity type, add explanation in COMMENT field.  
+- Avoid mislabeling similar categories (e.g., Organization vs Event).  
+
+---
+
+## 🎯 Confidence Score Rules
+
+0.90 – 1.00 → Clear entity  
+0.80 – 0.89 → Slight ambiguity  
+Below 0.80 → Strong ambiguity (avoid if possible)  
+
+---
+
+## 📌 Annotation Principles Followed
+
+- One entity type per labeled mention  
+- Capture exact span of the entity  
+- Maintain consistency across annotators  
+- Add comments for complex or ambiguous cases  
+
+---
+
+These guidelines were used to maintain structured and reliable NER annotation for NLP and AI applications.
