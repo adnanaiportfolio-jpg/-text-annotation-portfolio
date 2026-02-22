@@ -1,83 +1,146 @@
 # Intent Classification Labeling Guidelines
 
-This document defines the intent categories used in this project for text annotation.
+## 📌 Purpose
+
+This document defines the rules followed while labeling intents in the dataset.
+
+The goal is to ensure consistency, clarity, and reproducibility of annotation.
 
 ---
 
-## 1. Information_Request
-Text where the user is asking for information, clarification, or details.
+## 🏷 Intent Labels Definition
+
+### 1️⃣ Information Request
+
+Definition:  
+Text where the user asks for information or clarification.
 
 Examples:
-- What is the price of this product?
-- Can you tell me your working hours?
-- How does this service work?
+- "What is your refund policy?"  
+- "Can you tell me the store timings?"  
+
+Indicators:
+- Questions seeking details
+- Requests for explanations or instructions
 
 ---
 
-## 2. Complaint
-Text expressing dissatisfaction, frustration, or negative experience with a product or service.
+### 2️⃣ Complaint
+
+Definition:  
+Text expressing dissatisfaction or problems with a product or service.
 
 Examples:
-- I am not happy with the service.
-- My order arrived damaged.
-- This is the worst experience I’ve had.
+- "My order has not arrived yet."  
+- "The app keeps crashing every time I open it."  
+
+Indicators:
+- Expressions of dissatisfaction  
+- Problem reporting  
+- Negative experience description
 
 ---
 
-## 3. Feedback
-Text where the user is giving suggestions, opinions, or general feedback (positive or neutral).
+### 3️⃣ Feedback
+
+Definition:  
+Text giving opinions, suggestions, or evaluations.
 
 Examples:
-- The app interface is very user-friendly.
-- You should improve the delivery time.
-- Overall, it was a good experience.
+- "The new interface looks great."  
+- "It would be better if the app allowed dark mode."  
+
+Indicators:
+- Suggestions  
+- Comments on experience  
+- Recommendations
 
 ---
 
-## 4. Purchase_Intent
-Text showing clear intention to buy, subscribe, or place an order.
+### 4️⃣ Purchase Intent
+
+Definition:  
+Text expressing intent to buy or inquire about purchasing.
 
 Examples:
-- I want to buy this product.
-- How can I subscribe to this plan?
-- I would like to place an order.
+- "I want to buy this laptop."  
+- "Do you have this product in stock?"  
+
+Indicators:
+- Action-oriented intent to purchase  
+- Product inquiry or order intent
 
 ---
 
-## 5. Threat
-Text containing warning, aggressive tone, or legal/serious escalation.
+### 5️⃣ Threat
+
+Definition:  
+Text that contains threatening or harmful intent toward someone or something.
 
 Examples:
-- I will take legal action.
-- I will report this issue.
-- Fix this immediately or face consequences.
+- "I will make sure you regret this!"  
+- "If this continues, there will be consequences."  
+
+Indicators:
+- Threatening language  
+- Harm or intimidation
 
 ---
 
-## 6. Greeting
-Text used for greetings, polite openings, or basic conversation starters.
+### 6️⃣ Greeting
+
+Definition:  
+Text that serves to greet or welcome.
 
 Examples:
-- Hello
-- Good morning
-- Hi there
+- "Hello!"  
+- "Good morning, team."  
+
+Indicators:
+- Salutations  
+- Polite opening phrases
 
 ---
 
-## 7. Spam
-Promotional, irrelevant, suspicious, or repetitive marketing content.
+### 7️⃣ Spam
+
+Definition:  
+Unsolicited, irrelevant, or promotional messages.
 
 Examples:
-- Buy now and earn money fast!
-- Click this link to win a prize.
-- Limited time offer, act now!
+- "Buy cheap watches now at xyz.com!"  
+- "Click this link to win a free phone!"  
+
+Indicators:
+- Advertising links  
+- Repeated promotions  
+- Irrelevant or unwanted content
 
 ---
 
-## Confidence Score
-All annotations include a confidence score above 0.70 based on clarity of intent and context.
+## ⚖ Handling Ambiguous Cases
+
+- If a sentence could belong to multiple intents, label according to dominant intent.  
+- If unsure, add explanation in COMMENT field.  
+- Avoid labeling harmful content as Greeting or Feedback.  
 
 ---
 
-## Annotation Rule
-Each text must be assigned only one primary intent label based on dominant user intention.
+## 🎯 Confidence Score Rules
+
+0.90 – 1.00 → Clear intent  
+0.80 – 0.89 → Slight ambiguity  
+Below 0.80 → Strong ambiguity (avoid if possible)  
+
+---
+
+## 📌 Annotation Principles Followed
+
+- One primary intent per text entry  
+- Focus on overall purpose of the text  
+- Maintain consistency across annotators  
+- Add comments for complex or multi-intent cases  
+
+---
+
+These guidelines were used to maintain structured and reliable intent annotation for NLP and AI applications.
