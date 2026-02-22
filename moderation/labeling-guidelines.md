@@ -1,73 +1,131 @@
-# Content Moderation Labeling Guidelines
+# Text Moderation Labeling Guidelines
 
-This document defines the moderation categories used for text annotation in this project.
+## 📌 Purpose
+
+This document defines the rules followed while labeling moderation categories in the dataset.
+
+The goal is to ensure consistency, clarity, and reproducibility of annotation.
 
 ---
 
-## 1. Safe
-Content that does not contain harmful, abusive, violent, or inappropriate language.
+## 🏷 Moderation Labels Definition
+
+### 1️⃣ Safe
+
+Definition:  
+Text that is appropriate, non-offensive, and poses no risk.
 
 Examples:
-- This is a normal discussion.
-- Thank you for your help.
-- I appreciate your service.
+- "Looking forward to our team meeting tomorrow."  
+- "Happy birthday to you!"  
+
+Indicators:
+- Positive or neutral content
+- No offensive language
 
 ---
 
-## 2. Spam
-Promotional, repetitive, irrelevant, or suspicious marketing content.
+### 2️⃣ Spam
+
+Definition:  
+Unsolicited, irrelevant, or repetitive messages intended to advertise or annoy.
 
 Examples:
-- Buy now and earn money fast!
-- Click this link to win prizes.
-- Limited time offer, act now!
+- "Buy cheap products now at xyz.com"  
+- "Click here to win a free iPhone!"  
+
+Indicators:
+- Advertising links  
+- Repeated promotions  
+- Irrelevant content  
 
 ---
 
-## 3. Abusive
-Text containing direct insults, offensive language, or verbal attacks targeting an individual.
+### 3️⃣ Abusive
+
+Definition:  
+Content that insults, threatens, or attacks someone personally.
 
 Examples:
-- You are stupid.
-- This service is pathetic.
-- You are an idiot.
+- "You are a complete idiot!"  
+- "I hate your guts!"  
+
+Indicators:
+- Profanity  
+- Personal attacks  
+- Harassment  
 
 ---
 
-## 4. Violence
-Text that includes threats, encouragement of harm, or violent intent.
+### 4️⃣ Violence
+
+Definition:  
+Text describing or encouraging physical harm or violent acts.
 
 Examples:
-- I will hurt you.
-- They deserve to be attacked.
-- I will break everything.
+- "I will hurt him if he comes here."  
+- "Massive fights broke out at the protest."  
+
+Indicators:
+- Threats of violence  
+- Graphic violent descriptions  
 
 ---
 
-## 5. Hate_Speech
-Text targeting a group based on religion, ethnicity, gender, nationality, or other protected characteristics.
+### 5️⃣ Hate Speech
+
+Definition:  
+Content attacking a group or individual based on race, religion, gender, or identity.
 
 Examples:
-- That community is useless.
-- People of that group are inferior.
-- They should not exist.
+- "All [group] are worthless."  
+- "Hate everyone from [country]."  
+
+Indicators:
+- Discrimination  
+- Intolerance  
+- Derogatory slurs  
 
 ---
 
-## 6. Sarcastic
-Text that uses irony or sarcasm where the literal meaning differs from the intended tone.
+### 6️⃣ Sarcastic
+
+Definition:  
+Text that uses irony or sarcasm, often meaning the opposite of literal words.
 
 Examples:
-- Oh great, another delay, just perfect.
-- Wonderful, my order is late again.
-- Amazing service, as always (when used negatively).
+- "Oh great, another Monday, just what I needed."  
+- "Yeah, that went really well… not."  
+
+Indicators:
+- Tone contrast between words and intended meaning  
+- Use of punctuation or phrasing for irony  
 
 ---
 
-## Confidence Score
-Each annotation includes a confidence score above 0.70 based on clarity of moderation category.
+## ⚖ Handling Ambiguous Cases
+
+- If text could belong to multiple categories, label according to dominant category.  
+- If unsure, add explanation in COMMENT field.  
+- Avoid labeling unsafe content as Safe.  
 
 ---
 
-## Annotation Rule
-Each text must be assigned only one primary moderation label based on dominant context.
+## 🎯 Confidence Score Rules
+
+0.90 – 1.00 → Clear category  
+0.80 – 0.89 → Slight ambiguity  
+Below 0.80 → Strong ambiguity (avoid if possible)  
+
+---
+
+## 📌 Annotation Principles Followed
+
+- One moderation label per text entry  
+- Focus on context, not single words only  
+- Maintain consistency across annotators  
+- Add comments for any complex cases  
+
+---
+
+These guidelines were used to maintain structured and reliable moderation annotation for NLP applications.
