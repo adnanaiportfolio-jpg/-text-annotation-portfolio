@@ -87,10 +87,9 @@ Seeking opportunities in:
 
 ## 📬 Contact
 
-📧 Email: your-email@example.com  
-🔗 LinkedIn: (optional)  
-📁 AI Portfolio (Google Drive): Insert Link  
+📧 Email: khannadnan8534@gmail.com  
+🔗 LinkedIn: https://www.linkedin.com/in/adnan-khan-279ab1131/
 
----
+--
 
 Thank you for visiting my AI Portfolio.
