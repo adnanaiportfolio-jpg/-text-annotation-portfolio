@@ -1,0 +1,101 @@
+ID,Text,Moderation Label,Confidence Score,Comment
+1,You never get anything right.,Abusive,0.91,
+2,Earn passive income from home today.,Spam,0.96,
+3,I really appreciate your help.,Safe,0.93,
+4,I’m going to break your face.,Violent,0.95,Direct physical threat.
+5,People of that race are inferior.,Hate Speech,0.98,
+6,"Oh wow, that was just brilliant 🙃",Sarcastic,0.89,Ironic tone with emoji.
+7,Get 10k followers instantly.,Spam,0.97,
+8,Can we reschedule the meeting?,Safe,0.92,
+9,You sound clueless.,Abusive,0.88,
+10,That community is a disease.,Hate Speech,0.97,Dehumanizing language.
+11,Amazing job messing that up.,Sarcastic,0.87,
+12,Claim your lottery prize now!,Spam,0.99,
+13,I respect your perspective.,Safe,0.91,
+14,I’ll hurt you if you try that again.,Violent,0.94,Conditional threat.
+15,That ethnicity causes all the problems.,Hate Speech,0.96,
+16,"Yeah, because that plan totally worked.",Sarcastic,0.86,
+17,Send me your bank details to proceed.,Spam,0.95,
+18,Looking forward to our discussion.,Safe,0.94,
+19,You are pathetic.,Abusive,0.93,
+20,Go back to your own country.,Hate Speech,0.94,Xenophobic expression.
+21,Multiply your savings in a week.,Spam,0.97,
+22,I’m disappointed in your behavior.,Safe,0.82,Critical but not abusive.
+23,Excellent presentation today.,Safe,0.95,
+24,I’ll make you pay for this.,Violent,0.88,Implied threat.
+25,That religion spreads ignorance.,Hate Speech,0.97,
+26,"Oh sure, that makes perfect sense…",Sarcastic,0.85,Context implies irony.
+27,Work from home and earn $500 daily.,Spam,0.96,
+28,Please confirm once done.,Safe,0.9,
+29,You’re embarrassing yourself.,Abusive,0.86,
+30,All migrants are criminals.,Hate Speech,0.97,
+31,Act fast before the deal expires!,Spam,0.98,
+32,Fantastic decision… really.,Sarcastic,0.84,Ironic emphasis.
+33,People like you should be locked up.,Violent,0.92,Encouraging harm.
+34,Thanks for the update.,Safe,0.94,
+35,You are a failure.,Abusive,0.9,
+36,I hope someone beats you up.,Violent,0.96,Encourages violence.
+37,Kindly review the document.,Safe,0.91,
+38,Another genius idea from you 🙄,Sarcastic,0.88,Eye-roll indicates sarcasm.
+39,Click this link for instant cashback.,Spam,0.97,
+40,Your logic is ridiculous.,Abusive,0.87,
+41,That job role is useless.,Safe,0.78,Targets profession; not protected class.
+42,Grateful for your support.,Safe,0.93,
+43,Transfer funds to unlock benefits.,Spam,0.96,
+44,I have a different opinion.,Safe,0.89,
+45,That gender is unfit to lead.,Hate Speech,0.98,
+46,Impressive… as expected.,Safe,0.83,Neutral without sarcasm indicator.
+47,I will ruin your life.,Violent,0.94,Serious threat.
+48,"Limited slots available, register now!",Spam,0.99,
+49,Stop pretending you’re smart.,Abusive,0.85,
+50,Let’s keep this professional.,Safe,0.92,
+51,Nobody wants to hear you talk.,Abusive,0.88,
+52,Double your crypto in 24 hours.,Spam,0.97,
+53,Appreciate your patience.,Safe,0.93,
+54,I’ll smash your phone.,Violent,0.91,Threat of property damage.
+55,That nationality is worthless.,Hate Speech,0.97,
+56,Such a masterpiece… not.,Sarcastic,0.86,Clear sarcasm.
+57,Get rich without investment.,Spam,0.95,
+58,Please send the details.,Safe,0.9,
+59,You’re hopeless.,Abusive,0.9,
+60,That group should disappear.,Hate Speech,0.98,
+61,Exclusive offer ends tonight.,Spam,0.97,
+62,I value your input.,Safe,0.92,
+63,I’ll track you down.,Violent,0.93,Threatening intent.
+64,They are parasites.,Hate Speech,0.98,Dehumanizing term.
+65,"Wow, outstanding failure.",Sarcastic,0.87,
+66,Sign up now for instant approval.,Spam,0.96,
+67,Let’s collaborate on this.,Safe,0.91,
+68,You’re a joke.,Abusive,0.89,
+69,I hope you get hurt.,Violent,0.95,Expresses wish of harm.
+70,That race is lazy.,Hate Speech,0.97,
+71,Earn money by clicking ads.,Spam,0.96,
+72,Thanks for clarifying that.,Safe,0.94,
+73,You lack basic intelligence.,Abusive,0.91,
+74,I will break your legs.,Violent,0.97,Explicit threat.
+75,All refugees are thieves.,Hate Speech,0.98,
+76,"Oh great, just what we needed.",Sarcastic,0.85,Context implies irony.
+77,Win rewards by sharing this post.,Spam,0.97,
+78,I appreciate your honesty.,Safe,0.93,
+79,You are intolerable.,Abusive,0.84,
+80,That religion is evil.,Hate Speech,0.97,
+81,"Get paid instantly, no effort.",Spam,0.96,
+82,Please proceed with the task.,Safe,0.9,
+83,You are insufferable.,Abusive,0.88,
+84,I’ll make you suffer.,Violent,0.94,Threatening language.
+85,That ethnicity is a burden.,Hate Speech,0.97,
+86,What a brilliant disaster.,Sarcastic,0.86,
+87,Register today for free bonuses.,Spam,0.98,
+88,Thank you for your cooperation.,Safe,0.94,
+89,You are ridiculous.,Abusive,0.87,
+90,People like that should be banned.,Hate Speech,0.95,Targets protected class context implied.
+91,Unlock premium access now.,Spam,0.96,
+92,I respect your effort.,Safe,0.92,
+93,You’re completely incompetent.,Abusive,0.91,
+94,I’ll come after you.,Violent,0.92,Threatening intent.
+95,That caste is disgraceful.,Hate Speech,0.97,
+96,Wonderful mess you created.,Sarcastic,0.86,
+97,Guaranteed profits with zero risk.,Spam,0.98,
+98,Let’s discuss the plan calmly.,Safe,0.93,
+99,You are unbearable.,Abusive,0.85,
+100,All women are bad drivers.,Hate Speech,0.98,
