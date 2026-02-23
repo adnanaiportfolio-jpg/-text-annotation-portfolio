@@ -1,0 +1,331 @@
+ID,Text,Entity,Entity Label,Confidence Score
+1,Apple launched the iPhone 15 in California in 2023.,Apple,ORGANIZATION,0.99
+1,Apple launched the iPhone 15 in California in 2023.,iPhone 15,PRODUCT,0.98
+1,Apple launched the iPhone 15 in California in 2023.,California,LOCATION,0.97
+1,Apple launched the iPhone 15 in California in 2023.,2023,DATE,0.95
+2,Tesla invested $4 billion in India in 2022.,Tesla,ORGANIZATION,0.99
+2,Tesla invested $4 billion in India in 2022.,$4 billion,MONEY,0.98
+2,Tesla invested $4 billion in India in 2022.,India,LOCATION,0.97
+2,Tesla invested $4 billion in India in 2022.,2022,DATE,0.95
+3,Sundar Pichai spoke at Harvard University on Monday.,Sundar Pichai,PERSON,0.99
+3,Sundar Pichai spoke at Harvard University on Monday.,Harvard University,ORGANIZATION,0.97
+3,Sundar Pichai spoke at Harvard University on Monday.,Monday,DATE,0.9
+4,Microsoft introduced Surface Laptop 6 in 2024.,Microsoft,ORGANIZATION,0.99
+4,Microsoft introduced Surface Laptop 6 in 2024.,Surface Laptop 6,PRODUCT,0.98
+4,Microsoft introduced Surface Laptop 6 in 2024.,2024,DATE,0.96
+5,The FIFA World Cup 2022 was hosted in Qatar.,FIFA World Cup 2022,EVENT,0.99
+5,The FIFA World Cup 2022 was hosted in Qatar.,Qatar,LOCATION,0.98
+5,The FIFA World Cup 2022 was hosted in Qatar.,2022,DATE,0.95
+6,Amazon acquired Whole Foods for $13 billion in 2017.,Amazon,ORGANIZATION,0.99
+6,Amazon acquired Whole Foods for $13 billion in 2017.,Whole Foods,ORGANIZATION,0.98
+6,Amazon acquired Whole Foods for $13 billion in 2017.,$13 billion,MONEY,0.97
+6,Amazon acquired Whole Foods for $13 billion in 2017.,2017,DATE,0.95
+7,The meeting starts at 10:30 AM in London.,10:30 AM,TIME,0.96
+7,The meeting starts at 10:30 AM in London.,London,LOCATION,0.97
+8,NASA launched Artemis II in November 2024.,NASA,ORGANIZATION,0.99
+8,NASA launched Artemis II in November 2024.,Artemis II,EVENT,0.97
+8,NASA launched Artemis II in November 2024.,November 2024,DATE,0.96
+9,Elon Musk acquired Twitter for $44 billion in 2022.,Elon Musk,PERSON,0.99
+9,Elon Musk acquired Twitter for $44 billion in 2022.,Twitter,ORGANIZATION,0.99
+9,Elon Musk acquired Twitter for $44 billion in 2022.,$44 billion,MONEY,0.98
+9,Elon Musk acquired Twitter for $44 billion in 2022.,2022,DATE,0.95
+10,The Olympics 2024 will be held in Paris.,Olympics 2024,EVENT,0.98
+10,The Olympics 2024 will be held in Paris.,Paris,LOCATION,0.97
+10,The Olympics 2024 will be held in Paris.,2024,DATE,0.95
+11,Apple launched the iPhone 15 in California in 2023.,Apple,ORGANIZATION,0.99
+11,Apple launched the iPhone 15 in California in 2023.,iPhone 15,PRODUCT,0.98
+11,Apple launched the iPhone 15 in California in 2023.,California,LOCATION,0.97
+11,Apple launched the iPhone 15 in California in 2023.,2023,DATE,0.95
+12,Tesla invested $4 billion in India in 2022.,Tesla,ORGANIZATION,0.99
+12,Tesla invested $4 billion in India in 2022.,$4 billion,MONEY,0.98
+12,Tesla invested $4 billion in India in 2022.,India,LOCATION,0.97
+12,Tesla invested $4 billion in India in 2022.,2022,DATE,0.95
+13,Sundar Pichai spoke at Harvard University on Monday.,Sundar Pichai,PERSON,0.99
+13,Sundar Pichai spoke at Harvard University on Monday.,Harvard University,ORGANIZATION,0.97
+13,Sundar Pichai spoke at Harvard University on Monday.,Monday,DATE,0.9
+14,Microsoft introduced Surface Laptop 6 in 2024.,Microsoft,ORGANIZATION,0.99
+14,Microsoft introduced Surface Laptop 6 in 2024.,Surface Laptop 6,PRODUCT,0.98
+14,Microsoft introduced Surface Laptop 6 in 2024.,2024,DATE,0.96
+15,The FIFA World Cup 2022 was hosted in Qatar.,FIFA World Cup 2022,EVENT,0.99
+15,The FIFA World Cup 2022 was hosted in Qatar.,Qatar,LOCATION,0.98
+15,The FIFA World Cup 2022 was hosted in Qatar.,2022,DATE,0.95
+16,Amazon acquired Whole Foods for $13 billion in 2017.,Amazon,ORGANIZATION,0.99
+16,Amazon acquired Whole Foods for $13 billion in 2017.,Whole Foods,ORGANIZATION,0.98
+16,Amazon acquired Whole Foods for $13 billion in 2017.,$13 billion,MONEY,0.97
+16,Amazon acquired Whole Foods for $13 billion in 2017.,2017,DATE,0.95
+17,The meeting starts at 10:30 AM in London.,10:30 AM,TIME,0.96
+17,The meeting starts at 10:30 AM in London.,London,LOCATION,0.97
+18,NASA launched Artemis II in November 2024.,NASA,ORGANIZATION,0.99
+18,NASA launched Artemis II in November 2024.,Artemis II,EVENT,0.97
+18,NASA launched Artemis II in November 2024.,November 2024,DATE,0.96
+19,Elon Musk acquired Twitter for $44 billion in 2022.,Elon Musk,PERSON,0.99
+19,Elon Musk acquired Twitter for $44 billion in 2022.,Twitter,ORGANIZATION,0.99
+19,Elon Musk acquired Twitter for $44 billion in 2022.,$44 billion,MONEY,0.98
+19,Elon Musk acquired Twitter for $44 billion in 2022.,2022,DATE,0.95
+20,The Olympics 2024 will be held in Paris.,Olympics 2024,EVENT,0.98
+20,The Olympics 2024 will be held in Paris.,Paris,LOCATION,0.97
+20,The Olympics 2024 will be held in Paris.,2024,DATE,0.95
+21,Apple launched the iPhone 15 in California in 2023.,Apple,ORGANIZATION,0.99
+21,Apple launched the iPhone 15 in California in 2023.,iPhone 15,PRODUCT,0.98
+21,Apple launched the iPhone 15 in California in 2023.,California,LOCATION,0.97
+21,Apple launched the iPhone 15 in California in 2023.,2023,DATE,0.95
+22,Tesla invested $4 billion in India in 2022.,Tesla,ORGANIZATION,0.99
+22,Tesla invested $4 billion in India in 2022.,$4 billion,MONEY,0.98
+22,Tesla invested $4 billion in India in 2022.,India,LOCATION,0.97
+22,Tesla invested $4 billion in India in 2022.,2022,DATE,0.95
+23,Sundar Pichai spoke at Harvard University on Monday.,Sundar Pichai,PERSON,0.99
+23,Sundar Pichai spoke at Harvard University on Monday.,Harvard University,ORGANIZATION,0.97
+23,Sundar Pichai spoke at Harvard University on Monday.,Monday,DATE,0.9
+24,Microsoft introduced Surface Laptop 6 in 2024.,Microsoft,ORGANIZATION,0.99
+24,Microsoft introduced Surface Laptop 6 in 2024.,Surface Laptop 6,PRODUCT,0.98
+24,Microsoft introduced Surface Laptop 6 in 2024.,2024,DATE,0.96
+25,The FIFA World Cup 2022 was hosted in Qatar.,FIFA World Cup 2022,EVENT,0.99
+25,The FIFA World Cup 2022 was hosted in Qatar.,Qatar,LOCATION,0.98
+25,The FIFA World Cup 2022 was hosted in Qatar.,2022,DATE,0.95
+26,Amazon acquired Whole Foods for $13 billion in 2017.,Amazon,ORGANIZATION,0.99
+26,Amazon acquired Whole Foods for $13 billion in 2017.,Whole Foods,ORGANIZATION,0.98
+26,Amazon acquired Whole Foods for $13 billion in 2017.,$13 billion,MONEY,0.97
+26,Amazon acquired Whole Foods for $13 billion in 2017.,2017,DATE,0.95
+27,The meeting starts at 10:30 AM in London.,10:30 AM,TIME,0.96
+27,The meeting starts at 10:30 AM in London.,London,LOCATION,0.97
+28,NASA launched Artemis II in November 2024.,NASA,ORGANIZATION,0.99
+28,NASA launched Artemis II in November 2024.,Artemis II,EVENT,0.97
+28,NASA launched Artemis II in November 2024.,November 2024,DATE,0.96
+29,Elon Musk acquired Twitter for $44 billion in 2022.,Elon Musk,PERSON,0.99
+29,Elon Musk acquired Twitter for $44 billion in 2022.,Twitter,ORGANIZATION,0.99
+29,Elon Musk acquired Twitter for $44 billion in 2022.,$44 billion,MONEY,0.98
+29,Elon Musk acquired Twitter for $44 billion in 2022.,2022,DATE,0.95
+30,The Olympics 2024 will be held in Paris.,Olympics 2024,EVENT,0.98
+30,The Olympics 2024 will be held in Paris.,Paris,LOCATION,0.97
+30,The Olympics 2024 will be held in Paris.,2024,DATE,0.95
+31,Apple launched the iPhone 15 in California in 2023.,Apple,ORGANIZATION,0.99
+31,Apple launched the iPhone 15 in California in 2023.,iPhone 15,PRODUCT,0.98
+31,Apple launched the iPhone 15 in California in 2023.,California,LOCATION,0.97
+31,Apple launched the iPhone 15 in California in 2023.,2023,DATE,0.95
+32,Tesla invested $4 billion in India in 2022.,Tesla,ORGANIZATION,0.99
+32,Tesla invested $4 billion in India in 2022.,$4 billion,MONEY,0.98
+32,Tesla invested $4 billion in India in 2022.,India,LOCATION,0.97
+32,Tesla invested $4 billion in India in 2022.,2022,DATE,0.95
+33,Sundar Pichai spoke at Harvard University on Monday.,Sundar Pichai,PERSON,0.99
+33,Sundar Pichai spoke at Harvard University on Monday.,Harvard University,ORGANIZATION,0.97
+33,Sundar Pichai spoke at Harvard University on Monday.,Monday,DATE,0.9
+34,Microsoft introduced Surface Laptop 6 in 2024.,Microsoft,ORGANIZATION,0.99
+34,Microsoft introduced Surface Laptop 6 in 2024.,Surface Laptop 6,PRODUCT,0.98
+34,Microsoft introduced Surface Laptop 6 in 2024.,2024,DATE,0.96
+35,The FIFA World Cup 2022 was hosted in Qatar.,FIFA World Cup 2022,EVENT,0.99
+35,The FIFA World Cup 2022 was hosted in Qatar.,Qatar,LOCATION,0.98
+35,The FIFA World Cup 2022 was hosted in Qatar.,2022,DATE,0.95
+36,Amazon acquired Whole Foods for $13 billion in 2017.,Amazon,ORGANIZATION,0.99
+36,Amazon acquired Whole Foods for $13 billion in 2017.,Whole Foods,ORGANIZATION,0.98
+36,Amazon acquired Whole Foods for $13 billion in 2017.,$13 billion,MONEY,0.97
+36,Amazon acquired Whole Foods for $13 billion in 2017.,2017,DATE,0.95
+37,The meeting starts at 10:30 AM in London.,10:30 AM,TIME,0.96
+37,The meeting starts at 10:30 AM in London.,London,LOCATION,0.97
+38,NASA launched Artemis II in November 2024.,NASA,ORGANIZATION,0.99
+38,NASA launched Artemis II in November 2024.,Artemis II,EVENT,0.97
+38,NASA launched Artemis II in November 2024.,November 2024,DATE,0.96
+39,Elon Musk acquired Twitter for $44 billion in 2022.,Elon Musk,PERSON,0.99
+39,Elon Musk acquired Twitter for $44 billion in 2022.,Twitter,ORGANIZATION,0.99
+39,Elon Musk acquired Twitter for $44 billion in 2022.,$44 billion,MONEY,0.98
+39,Elon Musk acquired Twitter for $44 billion in 2022.,2022,DATE,0.95
+40,The Olympics 2024 will be held in Paris.,Olympics 2024,EVENT,0.98
+40,The Olympics 2024 will be held in Paris.,Paris,LOCATION,0.97
+40,The Olympics 2024 will be held in Paris.,2024,DATE,0.95
+41,Apple launched the iPhone 15 in California in 2023.,Apple,ORGANIZATION,0.99
+41,Apple launched the iPhone 15 in California in 2023.,iPhone 15,PRODUCT,0.98
+41,Apple launched the iPhone 15 in California in 2023.,California,LOCATION,0.97
+41,Apple launched the iPhone 15 in California in 2023.,2023,DATE,0.95
+42,Tesla invested $4 billion in India in 2022.,Tesla,ORGANIZATION,0.99
+42,Tesla invested $4 billion in India in 2022.,$4 billion,MONEY,0.98
+42,Tesla invested $4 billion in India in 2022.,India,LOCATION,0.97
+42,Tesla invested $4 billion in India in 2022.,2022,DATE,0.95
+43,Sundar Pichai spoke at Harvard University on Monday.,Sundar Pichai,PERSON,0.99
+43,Sundar Pichai spoke at Harvard University on Monday.,Harvard University,ORGANIZATION,0.97
+43,Sundar Pichai spoke at Harvard University on Monday.,Monday,DATE,0.9
+44,Microsoft introduced Surface Laptop 6 in 2024.,Microsoft,ORGANIZATION,0.99
+44,Microsoft introduced Surface Laptop 6 in 2024.,Surface Laptop 6,PRODUCT,0.98
+44,Microsoft introduced Surface Laptop 6 in 2024.,2024,DATE,0.96
+45,The FIFA World Cup 2022 was hosted in Qatar.,FIFA World Cup 2022,EVENT,0.99
+45,The FIFA World Cup 2022 was hosted in Qatar.,Qatar,LOCATION,0.98
+45,The FIFA World Cup 2022 was hosted in Qatar.,2022,DATE,0.95
+46,Amazon acquired Whole Foods for $13 billion in 2017.,Amazon,ORGANIZATION,0.99
+46,Amazon acquired Whole Foods for $13 billion in 2017.,Whole Foods,ORGANIZATION,0.98
+46,Amazon acquired Whole Foods for $13 billion in 2017.,$13 billion,MONEY,0.97
+46,Amazon acquired Whole Foods for $13 billion in 2017.,2017,DATE,0.95
+47,The meeting starts at 10:30 AM in London.,10:30 AM,TIME,0.96
+47,The meeting starts at 10:30 AM in London.,London,LOCATION,0.97
+48,NASA launched Artemis II in November 2024.,NASA,ORGANIZATION,0.99
+48,NASA launched Artemis II in November 2024.,Artemis II,EVENT,0.97
+48,NASA launched Artemis II in November 2024.,November 2024,DATE,0.96
+49,Elon Musk acquired Twitter for $44 billion in 2022.,Elon Musk,PERSON,0.99
+49,Elon Musk acquired Twitter for $44 billion in 2022.,Twitter,ORGANIZATION,0.99
+49,Elon Musk acquired Twitter for $44 billion in 2022.,$44 billion,MONEY,0.98
+49,Elon Musk acquired Twitter for $44 billion in 2022.,2022,DATE,0.95
+50,The Olympics 2024 will be held in Paris.,Olympics 2024,EVENT,0.98
+50,The Olympics 2024 will be held in Paris.,Paris,LOCATION,0.97
+50,The Olympics 2024 will be held in Paris.,2024,DATE,0.95
+51,Apple launched the iPhone 15 in California in 2023.,Apple,ORGANIZATION,0.99
+51,Apple launched the iPhone 15 in California in 2023.,iPhone 15,PRODUCT,0.98
+51,Apple launched the iPhone 15 in California in 2023.,California,LOCATION,0.97
+51,Apple launched the iPhone 15 in California in 2023.,2023,DATE,0.95
+52,Tesla invested $4 billion in India in 2022.,Tesla,ORGANIZATION,0.99
+52,Tesla invested $4 billion in India in 2022.,$4 billion,MONEY,0.98
+52,Tesla invested $4 billion in India in 2022.,India,LOCATION,0.97
+52,Tesla invested $4 billion in India in 2022.,2022,DATE,0.95
+53,Sundar Pichai spoke at Harvard University on Monday.,Sundar Pichai,PERSON,0.99
+53,Sundar Pichai spoke at Harvard University on Monday.,Harvard University,ORGANIZATION,0.97
+53,Sundar Pichai spoke at Harvard University on Monday.,Monday,DATE,0.9
+54,Microsoft introduced Surface Laptop 6 in 2024.,Microsoft,ORGANIZATION,0.99
+54,Microsoft introduced Surface Laptop 6 in 2024.,Surface Laptop 6,PRODUCT,0.98
+54,Microsoft introduced Surface Laptop 6 in 2024.,2024,DATE,0.96
+55,The FIFA World Cup 2022 was hosted in Qatar.,FIFA World Cup 2022,EVENT,0.99
+55,The FIFA World Cup 2022 was hosted in Qatar.,Qatar,LOCATION,0.98
+55,The FIFA World Cup 2022 was hosted in Qatar.,2022,DATE,0.95
+56,Amazon acquired Whole Foods for $13 billion in 2017.,Amazon,ORGANIZATION,0.99
+56,Amazon acquired Whole Foods for $13 billion in 2017.,Whole Foods,ORGANIZATION,0.98
+56,Amazon acquired Whole Foods for $13 billion in 2017.,$13 billion,MONEY,0.97
+56,Amazon acquired Whole Foods for $13 billion in 2017.,2017,DATE,0.95
+57,The meeting starts at 10:30 AM in London.,10:30 AM,TIME,0.96
+57,The meeting starts at 10:30 AM in London.,London,LOCATION,0.97
+58,NASA launched Artemis II in November 2024.,NASA,ORGANIZATION,0.99
+58,NASA launched Artemis II in November 2024.,Artemis II,EVENT,0.97
+58,NASA launched Artemis II in November 2024.,November 2024,DATE,0.96
+59,Elon Musk acquired Twitter for $44 billion in 2022.,Elon Musk,PERSON,0.99
+59,Elon Musk acquired Twitter for $44 billion in 2022.,Twitter,ORGANIZATION,0.99
+59,Elon Musk acquired Twitter for $44 billion in 2022.,$44 billion,MONEY,0.98
+59,Elon Musk acquired Twitter for $44 billion in 2022.,2022,DATE,0.95
+60,The Olympics 2024 will be held in Paris.,Olympics 2024,EVENT,0.98
+60,The Olympics 2024 will be held in Paris.,Paris,LOCATION,0.97
+60,The Olympics 2024 will be held in Paris.,2024,DATE,0.95
+61,Apple launched the iPhone 15 in California in 2023.,Apple,ORGANIZATION,0.99
+61,Apple launched the iPhone 15 in California in 2023.,iPhone 15,PRODUCT,0.98
+61,Apple launched the iPhone 15 in California in 2023.,California,LOCATION,0.97
+61,Apple launched the iPhone 15 in California in 2023.,2023,DATE,0.95
+62,Tesla invested $4 billion in India in 2022.,Tesla,ORGANIZATION,0.99
+62,Tesla invested $4 billion in India in 2022.,$4 billion,MONEY,0.98
+62,Tesla invested $4 billion in India in 2022.,India,LOCATION,0.97
+62,Tesla invested $4 billion in India in 2022.,2022,DATE,0.95
+63,Sundar Pichai spoke at Harvard University on Monday.,Sundar Pichai,PERSON,0.99
+63,Sundar Pichai spoke at Harvard University on Monday.,Harvard University,ORGANIZATION,0.97
+63,Sundar Pichai spoke at Harvard University on Monday.,Monday,DATE,0.9
+64,Microsoft introduced Surface Laptop 6 in 2024.,Microsoft,ORGANIZATION,0.99
+64,Microsoft introduced Surface Laptop 6 in 2024.,Surface Laptop 6,PRODUCT,0.98
+64,Microsoft introduced Surface Laptop 6 in 2024.,2024,DATE,0.96
+65,The FIFA World Cup 2022 was hosted in Qatar.,FIFA World Cup 2022,EVENT,0.99
+65,The FIFA World Cup 2022 was hosted in Qatar.,Qatar,LOCATION,0.98
+65,The FIFA World Cup 2022 was hosted in Qatar.,2022,DATE,0.95
+66,Amazon acquired Whole Foods for $13 billion in 2017.,Amazon,ORGANIZATION,0.99
+66,Amazon acquired Whole Foods for $13 billion in 2017.,Whole Foods,ORGANIZATION,0.98
+66,Amazon acquired Whole Foods for $13 billion in 2017.,$13 billion,MONEY,0.97
+66,Amazon acquired Whole Foods for $13 billion in 2017.,2017,DATE,0.95
+67,The meeting starts at 10:30 AM in London.,10:30 AM,TIME,0.96
+67,The meeting starts at 10:30 AM in London.,London,LOCATION,0.97
+68,NASA launched Artemis II in November 2024.,NASA,ORGANIZATION,0.99
+68,NASA launched Artemis II in November 2024.,Artemis II,EVENT,0.97
+68,NASA launched Artemis II in November 2024.,November 2024,DATE,0.96
+69,Elon Musk acquired Twitter for $44 billion in 2022.,Elon Musk,PERSON,0.99
+69,Elon Musk acquired Twitter for $44 billion in 2022.,Twitter,ORGANIZATION,0.99
+69,Elon Musk acquired Twitter for $44 billion in 2022.,$44 billion,MONEY,0.98
+69,Elon Musk acquired Twitter for $44 billion in 2022.,2022,DATE,0.95
+70,The Olympics 2024 will be held in Paris.,Olympics 2024,EVENT,0.98
+70,The Olympics 2024 will be held in Paris.,Paris,LOCATION,0.97
+70,The Olympics 2024 will be held in Paris.,2024,DATE,0.95
+71,Apple launched the iPhone 15 in California in 2023.,Apple,ORGANIZATION,0.99
+71,Apple launched the iPhone 15 in California in 2023.,iPhone 15,PRODUCT,0.98
+71,Apple launched the iPhone 15 in California in 2023.,California,LOCATION,0.97
+71,Apple launched the iPhone 15 in California in 2023.,2023,DATE,0.95
+72,Tesla invested $4 billion in India in 2022.,Tesla,ORGANIZATION,0.99
+72,Tesla invested $4 billion in India in 2022.,$4 billion,MONEY,0.98
+72,Tesla invested $4 billion in India in 2022.,India,LOCATION,0.97
+72,Tesla invested $4 billion in India in 2022.,2022,DATE,0.95
+73,Sundar Pichai spoke at Harvard University on Monday.,Sundar Pichai,PERSON,0.99
+73,Sundar Pichai spoke at Harvard University on Monday.,Harvard University,ORGANIZATION,0.97
+73,Sundar Pichai spoke at Harvard University on Monday.,Monday,DATE,0.9
+74,Microsoft introduced Surface Laptop 6 in 2024.,Microsoft,ORGANIZATION,0.99
+74,Microsoft introduced Surface Laptop 6 in 2024.,Surface Laptop 6,PRODUCT,0.98
+74,Microsoft introduced Surface Laptop 6 in 2024.,2024,DATE,0.96
+75,The FIFA World Cup 2022 was hosted in Qatar.,FIFA World Cup 2022,EVENT,0.99
+75,The FIFA World Cup 2022 was hosted in Qatar.,Qatar,LOCATION,0.98
+75,The FIFA World Cup 2022 was hosted in Qatar.,2022,DATE,0.95
+76,Amazon acquired Whole Foods for $13 billion in 2017.,Amazon,ORGANIZATION,0.99
+76,Amazon acquired Whole Foods for $13 billion in 2017.,Whole Foods,ORGANIZATION,0.98
+76,Amazon acquired Whole Foods for $13 billion in 2017.,$13 billion,MONEY,0.97
+76,Amazon acquired Whole Foods for $13 billion in 2017.,2017,DATE,0.95
+77,The meeting starts at 10:30 AM in London.,10:30 AM,TIME,0.96
+77,The meeting starts at 10:30 AM in London.,London,LOCATION,0.97
+78,NASA launched Artemis II in November 2024.,NASA,ORGANIZATION,0.99
+78,NASA launched Artemis II in November 2024.,Artemis II,EVENT,0.97
+78,NASA launched Artemis II in November 2024.,November 2024,DATE,0.96
+79,Elon Musk acquired Twitter for $44 billion in 2022.,Elon Musk,PERSON,0.99
+79,Elon Musk acquired Twitter for $44 billion in 2022.,Twitter,ORGANIZATION,0.99
+79,Elon Musk acquired Twitter for $44 billion in 2022.,$44 billion,MONEY,0.98
+79,Elon Musk acquired Twitter for $44 billion in 2022.,2022,DATE,0.95
+80,The Olympics 2024 will be held in Paris.,Olympics 2024,EVENT,0.98
+80,The Olympics 2024 will be held in Paris.,Paris,LOCATION,0.97
+80,The Olympics 2024 will be held in Paris.,2024,DATE,0.95
+81,Apple launched the iPhone 15 in California in 2023.,Apple,ORGANIZATION,0.99
+81,Apple launched the iPhone 15 in California in 2023.,iPhone 15,PRODUCT,0.98
+81,Apple launched the iPhone 15 in California in 2023.,California,LOCATION,0.97
+81,Apple launched the iPhone 15 in California in 2023.,2023,DATE,0.95
+82,Tesla invested $4 billion in India in 2022.,Tesla,ORGANIZATION,0.99
+82,Tesla invested $4 billion in India in 2022.,$4 billion,MONEY,0.98
+82,Tesla invested $4 billion in India in 2022.,India,LOCATION,0.97
+82,Tesla invested $4 billion in India in 2022.,2022,DATE,0.95
+83,Sundar Pichai spoke at Harvard University on Monday.,Sundar Pichai,PERSON,0.99
+83,Sundar Pichai spoke at Harvard University on Monday.,Harvard University,ORGANIZATION,0.97
+83,Sundar Pichai spoke at Harvard University on Monday.,Monday,DATE,0.9
+84,Microsoft introduced Surface Laptop 6 in 2024.,Microsoft,ORGANIZATION,0.99
+84,Microsoft introduced Surface Laptop 6 in 2024.,Surface Laptop 6,PRODUCT,0.98
+84,Microsoft introduced Surface Laptop 6 in 2024.,2024,DATE,0.96
+85,The FIFA World Cup 2022 was hosted in Qatar.,FIFA World Cup 2022,EVENT,0.99
+85,The FIFA World Cup 2022 was hosted in Qatar.,Qatar,LOCATION,0.98
+85,The FIFA World Cup 2022 was hosted in Qatar.,2022,DATE,0.95
+86,Amazon acquired Whole Foods for $13 billion in 2017.,Amazon,ORGANIZATION,0.99
+86,Amazon acquired Whole Foods for $13 billion in 2017.,Whole Foods,ORGANIZATION,0.98
+86,Amazon acquired Whole Foods for $13 billion in 2017.,$13 billion,MONEY,0.97
+86,Amazon acquired Whole Foods for $13 billion in 2017.,2017,DATE,0.95
+87,The meeting starts at 10:30 AM in London.,10:30 AM,TIME,0.96
+87,The meeting starts at 10:30 AM in London.,London,LOCATION,0.97
+88,NASA launched Artemis II in November 2024.,NASA,ORGANIZATION,0.99
+88,NASA launched Artemis II in November 2024.,Artemis II,EVENT,0.97
+88,NASA launched Artemis II in November 2024.,November 2024,DATE,0.96
+89,Elon Musk acquired Twitter for $44 billion in 2022.,Elon Musk,PERSON,0.99
+89,Elon Musk acquired Twitter for $44 billion in 2022.,Twitter,ORGANIZATION,0.99
+89,Elon Musk acquired Twitter for $44 billion in 2022.,$44 billion,MONEY,0.98
+89,Elon Musk acquired Twitter for $44 billion in 2022.,2022,DATE,0.95
+90,The Olympics 2024 will be held in Paris.,Olympics 2024,EVENT,0.98
+90,The Olympics 2024 will be held in Paris.,Paris,LOCATION,0.97
+90,The Olympics 2024 will be held in Paris.,2024,DATE,0.95
+91,Apple launched the iPhone 15 in California in 2023.,Apple,ORGANIZATION,0.99
+91,Apple launched the iPhone 15 in California in 2023.,iPhone 15,PRODUCT,0.98
+91,Apple launched the iPhone 15 in California in 2023.,California,LOCATION,0.97
+91,Apple launched the iPhone 15 in California in 2023.,2023,DATE,0.95
+92,Tesla invested $4 billion in India in 2022.,Tesla,ORGANIZATION,0.99
+92,Tesla invested $4 billion in India in 2022.,$4 billion,MONEY,0.98
+92,Tesla invested $4 billion in India in 2022.,India,LOCATION,0.97
+92,Tesla invested $4 billion in India in 2022.,2022,DATE,0.95
+93,Sundar Pichai spoke at Harvard University on Monday.,Sundar Pichai,PERSON,0.99
+93,Sundar Pichai spoke at Harvard University on Monday.,Harvard University,ORGANIZATION,0.97
+93,Sundar Pichai spoke at Harvard University on Monday.,Monday,DATE,0.9
+94,Microsoft introduced Surface Laptop 6 in 2024.,Microsoft,ORGANIZATION,0.99
+94,Microsoft introduced Surface Laptop 6 in 2024.,Surface Laptop 6,PRODUCT,0.98
+94,Microsoft introduced Surface Laptop 6 in 2024.,2024,DATE,0.96
+95,The FIFA World Cup 2022 was hosted in Qatar.,FIFA World Cup 2022,EVENT,0.99
+95,The FIFA World Cup 2022 was hosted in Qatar.,Qatar,LOCATION,0.98
+95,The FIFA World Cup 2022 was hosted in Qatar.,2022,DATE,0.95
+96,Amazon acquired Whole Foods for $13 billion in 2017.,Amazon,ORGANIZATION,0.99
+96,Amazon acquired Whole Foods for $13 billion in 2017.,Whole Foods,ORGANIZATION,0.98
+96,Amazon acquired Whole Foods for $13 billion in 2017.,$13 billion,MONEY,0.97
+96,Amazon acquired Whole Foods for $13 billion in 2017.,2017,DATE,0.95
+97,The meeting starts at 10:30 AM in London.,10:30 AM,TIME,0.96
+97,The meeting starts at 10:30 AM in London.,London,LOCATION,0.97
+98,NASA launched Artemis II in November 2024.,NASA,ORGANIZATION,0.99
+98,NASA launched Artemis II in November 2024.,Artemis II,EVENT,0.97
+98,NASA launched Artemis II in November 2024.,November 2024,DATE,0.96
+99,Elon Musk acquired Twitter for $44 billion in 2022.,Elon Musk,PERSON,0.99
+99,Elon Musk acquired Twitter for $44 billion in 2022.,Twitter,ORGANIZATION,0.99
+99,Elon Musk acquired Twitter for $44 billion in 2022.,$44 billion,MONEY,0.98
+99,Elon Musk acquired Twitter for $44 billion in 2022.,2022,DATE,0.95
+100,The Olympics 2024 will be held in Paris.,Olympics 2024,EVENT,0.98
+100,The Olympics 2024 will be held in Paris.,Paris,LOCATION,0.97
+100,The Olympics 2024 will be held in Paris.,2024,DATE,0.95
