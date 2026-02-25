@@ -1,0 +1,101 @@
+ID,Text,Sentiment_Label,Confidence_Score,Comment
+1,The laptop performs well but heats up quickly.,Mixed,0.82,"Performance positive, heating negative"
+2,I’m extremely pleased with the overall experience.,Positive,0.96,
+3,The service was neither impressive nor disappointing.,Neutral,0.78,Balanced tone
+4,The update fixed bugs but introduced new issues.,Mixed,0.8,Improvement + new problems
+5,I regret subscribing to this platform.,Negative,0.94,
+6,The camera quality is outstanding.,Positive,0.95,
+7,It works as intended.,Neutral,0.76,Functional statement
+8,"The design looks great, although it feels fragile.",Mixed,0.83,"Visual positive, durability concern"
+9,The delivery took forever.,Negative,0.93,
+10,I appreciate the quick response from support.,Positive,0.94,
+11,The interface is clean.,Positive,0.91,
+12,It’s acceptable but nothing impressive.,Neutral,0.77,Mild tone
+13,The battery backup is terrible.,Negative,0.96,
+14,I’m satisfied with the purchase.,Positive,0.92,
+15,The instructions lacked clarity.,Negative,0.89,
+16,The color combination is attractive.,Positive,0.9,
+17,The performance is decent for the price.,Mixed,0.79,Value trade-off
+18,The event was organized properly.,Positive,0.91,
+19,The software crashes occasionally.,Negative,0.9,
+20,I feel indifferent about the update.,Neutral,0.77,No strong emotion
+21,The product quality exceeded my hopes.,Positive,0.96,
+22,The material feels cheap despite the high cost.,Mixed,0.84,Cost vs quality contrast
+23,The response time improved slightly.,Positive,0.88,
+24,The system is slow and unreliable.,Negative,0.95,
+25,It’s fine for temporary use.,Neutral,0.75,Context-dependent
+26,The packaging was elegant.,Positive,0.93,
+27,The feature sounds promising but doesn’t deliver.,Mixed,0.81,Expectation vs reality
+28,The course content is average.,Neutral,0.76,
+29,I’m unhappy with the recent changes.,Negative,0.94,
+30,The chair is comfortable for long hours.,Positive,0.95,
+31,The product description was misleading.,Negative,0.92,
+32,The new interface is smooth and responsive.,Positive,0.94,
+33,The build quality is solid.,Positive,0.93,
+34,"It’s not bad, but I expected better.",Mixed,0.83,Mild dissatisfaction
+35,The shipment tracking was accurate.,Positive,0.9,
+36,The sound output is weak.,Negative,0.91,
+37,The policy seems fair.,Neutral,0.76,Objective tone
+38,The screen clarity is impressive.,Positive,0.95,
+39,The software update was unnecessary.,Negative,0.88,
+40,The performance is stable so far.,Neutral,0.77,Time-dependent
+41,I love the smooth navigation.,Positive,0.95,
+42,The device stopped working unexpectedly.,Negative,0.94,
+43,The instructions were straightforward.,Positive,0.92,
+44,"It’s usable, though slightly outdated.",Mixed,0.8,Usable but old
+45,The layout looks messy.,Negative,0.9,
+46,The app runs efficiently.,Positive,0.94,
+47,I have mixed feelings about this service.,Mixed,0.78,Explicit mixed sentiment
+48,The meeting covered all key points.,Neutral,0.75,Factual
+49,The quality control seems poor.,Negative,0.92,
+50,The keyboard feels premium.,Positive,0.93,
+51,The support team was helpful but slow.,Mixed,0.82,Helpful yet delayed
+52,The website navigation is confusing.,Negative,0.91,
+53,I’m happy with how it turned out.,Positive,0.94,
+54,The feature is optional.,Neutral,0.75,Informational
+55,The battery charges quickly.,Positive,0.92,
+56,The texture feels rough.,Negative,0.89,
+57,The results were satisfactory.,Positive,0.9,
+58,The explanation lacked depth.,Negative,0.88,
+59,It meets the minimum requirements.,Neutral,0.76,Basic compliance
+60,The visuals are stunning.,Positive,0.96,
+61,The service delay was frustrating.,Negative,0.93,
+62,The product is lightweight and handy.,Positive,0.92,
+63,The software is complex but powerful.,Mixed,0.84,Complexity vs capability
+64,The instructions were partially helpful.,Mixed,0.79,Partial usefulness
+65,The experience was smooth overall.,Positive,0.94,
+66,The system overheats under load.,Negative,0.93,
+67,The layout is simple and clean.,Positive,0.92,
+68,It’s average in terms of performance.,Neutral,0.76,
+69,The materials seem durable.,Positive,0.91,
+70,The connection drops frequently.,Negative,0.92,
+71,The feature is innovative.,Positive,0.93,
+72,The update created compatibility issues.,Negative,0.91,
+73,I’m content with the outcome.,Positive,0.92,
+74,The product feels outdated.,Negative,0.88,
+75,The response was prompt.,Positive,0.9,
+76,The content is informative.,Neutral,0.76,Factual
+77,The design balances style and function.,Positive,0.94,
+78,The buttons are stiff and hard to press.,Negative,0.9,
+79,It works better than expected.,Positive,0.95,
+80,The performance fluctuates.,Negative,0.87,
+81,The concept is interesting but poorly executed.,Mixed,0.85,Idea vs execution
+82,The setup process was simple.,Positive,0.92,
+83,The graphics look outdated.,Negative,0.89,
+84,The explanation was clear and concise.,Positive,0.94,
+85,The sound clarity is average.,Neutral,0.76,
+86,I’m disappointed with the durability.,Negative,0.93,
+87,The value for money is impressive.,Positive,0.95,
+88,The navigation is unintuitive.,Negative,0.9,
+89,The feature works sometimes.,Mixed,0.78,Inconsistent performance
+90,The lighting is adequate.,Neutral,0.75,
+91,The product exceeded industry standards.,Positive,0.96,
+92,The customer experience was below expectations.,Negative,0.92,
+93,The setup guide was detailed.,Positive,0.93,
+94,The color fades quickly.,Negative,0.88,
+95,The system is reliable.,Positive,0.94,
+96,The process seems lengthy.,Neutral,0.75,Context-neutral
+97,I’m thrilled with the results.,Positive,0.96,
+98,The product broke within a week.,Negative,0.95,
+99,The interface is intuitive yet slightly cluttered.,Mixed,0.84,Ease vs clutter
+100,The overall impression is satisfactory.,Positive,0.91,
