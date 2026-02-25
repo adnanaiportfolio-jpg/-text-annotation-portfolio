@@ -1,0 +1,101 @@
+ID,Text,Label,Confidence_Score,Comment
+1,I disagree with your conclusion.,Safe,0.88,Critical but respectful
+2,Act now to secure unbelievable returns!,Spam,0.96,
+3,You are unbelievably lazy.,Abusive,0.91,
+4,I will slap you if you repeat that.,Violent,0.94,Direct threat
+5,That community spreads nothing but lies.,Hate Speech,0.95,Targets protected group
+6,Join our investment plan for guaranteed profit.,Spam,0.97,
+7,Thanks for handling this professionally.,Safe,0.93,
+8,You’re a complete waste of time.,Abusive,0.92,
+9,I’m going to smash your laptop.,Violent,0.93,Property threat
+10,People of that ethnicity are dangerous.,Hate Speech,0.97,
+11,Register today and earn instantly.,Spam,0.95,
+12,Looking forward to your response.,Safe,0.92,
+13,Your ideas make no sense.,Abusive,0.87,Mild insult
+14,"If you touch that again, I’ll hurt you.",Violent,0.95,Conditional threat
+15,That religion is a threat to society.,Hate Speech,0.98,
+16,Win a free vacation by signing up now.,Spam,0.98,
+17,I appreciate your transparency.,Safe,0.94,
+18,You are absolutely clueless.,Abusive,0.9,
+19,I’ll make sure you suffer for this.,Violent,0.92,Implied harm
+20,All members of that caste are corrupt.,Hate Speech,0.97,
+21,"Exclusive crypto signal group, join fast.",Spam,0.96,
+22,Please review and confirm.,Safe,0.91,
+23,Stop being so ignorant.,Abusive,0.89,
+24,I will track you and deal with you.,Violent,0.91,Threatening tone
+25,That nationality is a burden on society.,Hate Speech,0.97,
+26,Get paid for simple typing work.,Spam,0.95,
+27,Thank you for the update.,Safe,0.93,
+28,You’re embarrassing the whole team.,Abusive,0.88,
+29,I hope someone punches you.,Violent,0.96,Encourages violence
+30,People like that should not exist.,Hate Speech,0.98,Dehumanizing
+31,"Limited seats available, apply immediately.",Spam,0.97,
+32,I respect your feedback.,Safe,0.92,
+33,You have zero common sense.,Abusive,0.9,
+34,I’ll break your phone.,Violent,0.92,Property damage threat
+35,That gender ruins everything.,Hate Speech,0.98,
+36,Click here for instant approval loan.,Spam,0.98,
+37,Let’s handle this calmly.,Safe,0.91,
+38,You talk nonsense.,Abusive,0.85,Mild insult
+39,I’m going to knock you out.,Violent,0.95,Explicit threat
+40,That race is inferior.,Hate Speech,0.99,Explicit hate
+41,Earn $1000 daily without effort.,Spam,0.97,
+42,Grateful for your cooperation.,Safe,0.93,
+43,You’re not worth anyone’s time.,Abusive,0.89,
+44,I’ll destroy your reputation.,Violent,0.9,Non-physical harm threat
+45,Immigrants are parasites.,Hate Speech,0.98,Dehumanizing language
+46,Sign up now for bonus rewards.,Spam,0.96,
+47,I value your opinion.,Safe,0.92,
+48,You are completely incompetent.,Abusive,0.93,
+49,I will come to your house tonight.,Violent,0.91,Implied threat
+50,That religion spreads violence.,Hate Speech,0.96,
+51,DM for guaranteed followers boost.,Spam,0.98,
+52,Thanks for your patience.,Safe,0.94,
+53,You are hopeless at this job.,Abusive,0.9,
+54,I’ll make you regret this decision.,Violent,0.89,Implied threat
+55,That ethnicity is backward.,Hate Speech,0.97,
+56,Unlock hidden profits instantly.,Spam,0.96,
+57,Let’s proceed with the meeting.,Safe,0.9,
+58,You’re pathetic and useless.,Abusive,0.94,
+59,I’ll beat you up.,Violent,0.97,Direct violence
+60,That group should be removed.,Hate Speech,0.98,Calls for exclusion
+61,"Free access, no credit card required.",Spam,0.95,
+62,I appreciate your effort on this.,Safe,0.93,
+63,You are unbearable to work with.,Abusive,0.88,
+64,I will ruin everything you built.,Violent,0.9,Threatening destruction
+65,People from that region are thieves.,Hate Speech,0.97,
+66,Instant cashback if you register now.,Spam,0.97,
+67,Kindly share the details.,Safe,0.91,
+68,You lack basic skills.,Abusive,0.87,
+69,I’ll hit you next time.,Violent,0.94,
+70,That caste is worthless.,Hate Speech,0.98,
+71,Join today and double earnings.,Spam,0.96,
+72,Thank you for your assistance.,Safe,0.94,
+73,You always mess things up.,Abusive,0.89,
+74,I will attack you.,Violent,0.96,Explicit threat
+75,That religion brainwashes people.,Hate Speech,0.97,
+76,Earn passive income instantly.,Spam,0.96,
+77,I appreciate your dedication.,Safe,0.93,
+78,You’re a total disappointment.,Abusive,0.9,
+79,I hope you get seriously hurt.,Violent,0.97,Wishes harm
+80,That nationality destroys economies.,Hate Speech,0.97,
+81,Click to unlock premium features.,Spam,0.95,
+82,Let’s keep communication respectful.,Safe,0.92,
+83,You’re acting like an idiot.,Abusive,0.91,
+84,I’ll make sure you don’t walk again.,Violent,0.98,Extreme threat
+85,That gender is incapable of leadership.,Hate Speech,0.98,
+86,Register now to win big prizes.,Spam,0.97,
+87,Thanks for your contribution.,Safe,0.93,
+88,You’re a disgrace.,Abusive,0.89,
+89,I’m going to crush you.,Violent,0.95,
+90,All refugees are parasites.,Hate Speech,0.98,
+91,Guaranteed approval within minutes.,Spam,0.96,
+92,I respect your time.,Safe,0.92,
+93,You have no talent whatsoever.,Abusive,0.9,
+94,I’ll find you and hurt you.,Violent,0.97,Direct threat
+95,That ethnicity spreads crime.,Hate Speech,0.97,
+96,Sign up today for exclusive rewards.,Spam,0.96,
+97,Please let me know your thoughts.,Safe,0.91,
+98,You are beyond stupid.,Abusive,0.93,
+99,I’ll set your car on fire.,Violent,0.98,Severe property threat
+100,That group is a disease.,Hate Speech,0.99,Dehumanizing language
